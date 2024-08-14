@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -53,4 +54,16 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Two Pointers
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Binary Search
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Sorting
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
