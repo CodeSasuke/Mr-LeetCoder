@@ -10,6 +10,7 @@
 | [0890-lemonade-change](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0890-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
