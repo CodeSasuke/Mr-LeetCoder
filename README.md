@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0664-strange-printer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
+| [0664-strange-printer](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Heap (Priority Queue)
