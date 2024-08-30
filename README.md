@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
+| [2803-modify-graph-edge-weights](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2803-modify-graph-edge-weights) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,4 +132,9 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
