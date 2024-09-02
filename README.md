@@ -13,6 +13,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -51,10 +52,12 @@
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Depth-First Search
 |  |
 | ------- |
