@@ -8,6 +8,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1325-path-with-maximum-probability) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
@@ -57,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Depth-First Search
