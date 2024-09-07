@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0009-palindrome-number) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0564-find-the-closest-palindrome) |
