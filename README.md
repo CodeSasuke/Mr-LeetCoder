@@ -73,11 +73,13 @@
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -156,5 +159,10 @@
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
