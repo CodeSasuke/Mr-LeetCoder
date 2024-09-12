@@ -13,6 +13,7 @@
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -26,6 +27,7 @@
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -34,10 +36,12 @@
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0664-strange-printer) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
 |  |
@@ -132,6 +136,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
