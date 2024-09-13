@@ -6,15 +6,16 @@ class Solution {
         // }
         int count = 0;
         for(int i = 0; i < words.length; i++){
-            int flag = 1;
+            // int flag = 1;
             // for(char ch : words[i]){
                 for(int j = 0; j < words[i].length();j++){
                 if(!allowed.contains(String.valueOf(words[i].charAt(j)))){
-                    flag = 0;
+                    // flag = 0;
+                    count--;
                     break;
                 }
                 }
-                if(flag == 1)
+                // if(flag == 1)
                 count++;
                 // }
         }
