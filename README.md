@@ -36,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0564-find-the-closest-palindrome) |
@@ -189,4 +190,16 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
