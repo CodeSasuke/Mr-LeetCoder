@@ -21,6 +21,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -44,6 +46,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0664-strange-printer](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,4 +210,5 @@
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
