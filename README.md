@@ -22,6 +22,7 @@
 | [2155-find-missing-observations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -47,6 +49,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -211,4 +214,5 @@
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
