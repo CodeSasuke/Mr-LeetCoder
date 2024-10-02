@@ -14,6 +14,7 @@
 | [0906-walking-robot-simulation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -35,6 +36,7 @@
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1256-rank-transform-of-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1256-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
