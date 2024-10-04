@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0729-my-calendar-i) |
@@ -136,10 +137,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
