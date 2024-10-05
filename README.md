@@ -31,6 +31,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
