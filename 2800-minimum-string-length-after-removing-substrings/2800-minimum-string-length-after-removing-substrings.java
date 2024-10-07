@@ -1,12 +1,13 @@
 class Solution {
     public int minLength(String s) {
-        String remove1 = "AB";
-        String remove2 = "CD";
-        int count = 0;
-        while(s.contains(remove1) || s.contains(remove2)){
-            s = s.replace(remove1,"");
-            s = s.replace(remove2,"");
+        Stack<Character> stack = new Stack<>();
+        for(char c : s.toCharArray()){
+            if(!stack.empty() && ((stack.peek() == 'A' && c == 'B') || (stack.peek() == 'C' && c == 'D'))){
+                stack.pop();
+            }else{
+                stack.push(c);
+            }
         }
-        return s.length();
+        return stack.size();
     }
 }
