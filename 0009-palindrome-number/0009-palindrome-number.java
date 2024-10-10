@@ -7,9 +7,9 @@ class Solution {
         int dum = x;
         while(dum > 0){
             int ld = dum % 10;
-            if (rev > (Integer.MAX_VALUE - ld) / 10) {
-                return false; // Overflow will occur
-            }
+            // if (rev > (Integer.MAX_VALUE - ld) / 10) {
+            //     return false; // Overflow will occur
+            // }
             rev = (rev * 10) + ld;
             dum/=10;
         }
