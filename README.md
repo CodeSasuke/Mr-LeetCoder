@@ -8,6 +8,7 @@
 | [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
@@ -180,6 +181,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
