@@ -32,6 +32,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
