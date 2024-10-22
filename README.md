@@ -102,6 +102,7 @@
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2155-find-missing-observations) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
@@ -127,6 +128,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2155-find-missing-observations) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
