@@ -41,6 +41,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2035-count-sub-islands) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2803-modify-graph-edge-weights) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
