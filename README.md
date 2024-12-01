@@ -97,6 +97,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
@@ -333,4 +335,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
