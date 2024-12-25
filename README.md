@@ -6,6 +6,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -117,6 +119,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
