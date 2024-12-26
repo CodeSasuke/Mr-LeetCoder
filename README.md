@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +159,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1923-sentence-similarity-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1923-sentence-similarity-iii) |
@@ -173,6 +175,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0015-3sum) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
