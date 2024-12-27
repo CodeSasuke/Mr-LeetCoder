@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0056-merge-intervals) |
@@ -171,6 +172,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0035-search-insert-position) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0729-my-calendar-i) |
 ## Sorting
