@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0260-single-number-iii) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0260-single-number-iii) |
 | [0476-number-complement](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
