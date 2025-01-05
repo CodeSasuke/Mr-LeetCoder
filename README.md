@@ -31,6 +31,7 @@
 | [1325-path-with-maximum-probability](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -184,6 +185,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0729-my-calendar-i) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
