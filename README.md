@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0035-search-insert-position) |
@@ -179,6 +180,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -363,4 +365,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
