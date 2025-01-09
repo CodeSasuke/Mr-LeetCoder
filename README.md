@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0142-linked-list-cycle-ii) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0015-3sum) |
+| [0142-linked-list-cycle-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1923-sentence-similarity-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1923-sentence-similarity-iii) |
@@ -298,6 +300,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0142-linked-list-cycle-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1484-linked-list-in-binary-tree) |
