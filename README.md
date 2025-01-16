@@ -92,6 +92,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1923-sentence-similarity-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -118,6 +119,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0564-find-the-closest-palindrome) |
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1240-stone-game-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -214,6 +216,7 @@
 | [0890-lemonade-change](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1304-longest-happy-string) |
+| [2032-largest-odd-number-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2616-maximal-score-after-applying-k-operations) |
