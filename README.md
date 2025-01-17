@@ -59,6 +59,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0067-add-binary) |
 | [0214-shortest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0564-find-the-closest-palindrome) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0015-3sum](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0719-find-k-th-smallest-pair-distance) |
