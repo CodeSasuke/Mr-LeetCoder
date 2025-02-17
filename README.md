@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -63,6 +64,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
+| [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0870-magic-squares-in-grid) |
@@ -279,6 +281,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1002-maximum-width-ramp) |
@@ -371,6 +374,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1002-maximum-width-ramp) |
 ## Enumeration
 |  |
