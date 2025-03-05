@@ -1,35 +1,33 @@
-import java.util.*;
+import java.util.Arrays;
 
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        List<Integer> list = new ArrayList<>();
+        int i = -1; // Slow pointer to store the final valid asteroids
 
         for (int asteroid : asteroids) {
-            boolean destroyed = false;
+            boolean isDestroyed = false;
 
-            while (!list.isEmpty() && list.get(list.size() - 1) > 0 && asteroid < 0) {
-                int top = list.get(list.size() - 1);
-                int absAsteroid = Math.abs(asteroid);
-                int absTop = Math.abs(top);
-
-                if (absAsteroid > absTop) {
-                    list.remove(list.size() - 1); // Destroy the top asteroid and continue checking
-                } else if (absAsteroid == absTop) {
-                    list.remove(list.size() - 1); // Both asteroids destroy each other
-                    destroyed = true;
+            // Process collisions
+            while (i >= 0 && asteroids[i] > 0 && asteroid < 0) {
+                if (asteroids[i] == -asteroid) {  // Equal size: both explode
+                    i--;
+                    isDestroyed = true;
                     break;
-                } else {
-                    destroyed = true;
+                } else if (asteroids[i] > -asteroid) { // Stack top is bigger, new asteroid explodes
+                    isDestroyed = true;
                     break;
+                } else {  // Stack top is smaller, pop it and continue checking
+                    i--;
                 }
             }
 
-            if (!destroyed) {
-                list.add(asteroid);
+            // If asteroid is not destroyed, add it to the final array
+            if (!isDestroyed) {
+                asteroids[++i] = asteroid;
             }
         }
 
-        // Convert list to array
-        return list.stream().mapToInt(i -> i).toArray();
+        // Create result array with valid asteroids
+        return Arrays.copyOf(asteroids, i + 1);
     }
 }
