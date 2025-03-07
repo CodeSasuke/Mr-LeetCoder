@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0260-single-number-iii) |
@@ -286,6 +287,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0735-asteroid-collision) |
@@ -382,6 +384,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0943-sum-of-subarray-minimums) |
