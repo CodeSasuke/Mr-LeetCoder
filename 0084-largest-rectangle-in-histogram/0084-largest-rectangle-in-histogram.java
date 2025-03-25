@@ -1,38 +1,50 @@
 class Solution {
-  public int largestRectangleArea(int[] heights) {
-    int n = heights.length;
-    if(n == 1){
-        return heights[0];
+    public int largestRectangleArea(int[] heights) {
+        int n = heights.length;
+        if(n == 0){
+            return 0;
+        }
+        int pse[] = new int[n];
+        int nse[] = new int[n];
+        Stack<Integer> stack = new Stack<>();
+        // first compute pse
+        for(int i = 0; i < n; i++){
+            if(i == 0){
+                pse[i] = -1; 
+            }
+            while(!stack.isEmpty() && heights[stack.peek()] >= heights[i]){
+                stack.pop();
+            }
+            if(stack.isEmpty()){
+                pse[i] = -1;
+            }
+            else{
+                pse[i] = stack.peek();
+            }
+            stack.push(i);
+        }
+        stack.clear();
+        // now compute nse
+        for(int i = n-1; i >= 0; i--){
+            if(i == n){
+                nse[i] = n; 
+            }
+            while(!stack.isEmpty() && heights[stack.peek()] >= heights[i]){
+                stack.pop();
+            }
+            if(stack.isEmpty()){
+                nse[i] = n;
+            }
+            else{
+                nse[i] = stack.peek();
+            }
+            stack.push(i);
+        }
+        int area = 0;
+        for(int i = 0; i < n; i++){
+            int curr = heights[i] * (nse[i] - pse[i] - 1);
+            area = Math.max(area,curr);
+        }
+        return area;
     }
-    int[] nse = new int[n];
-    int[] pse = new int[n];
-    Stack < Integer > stack = new Stack < > ();
-    // nse
-    for (int i = n-1; i >= 0; i--) {
-      while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-        stack.pop();
-      }
-      nse[i] = stack.isEmpty() ? n : stack.peek();
-      stack.push(i);
-    }
-    // pge
-    stack.clear();
-    for (int i = 0; i < n; i++) {
-      while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-        stack.pop();
-      }
-      pse[i] = stack.isEmpty() ? -1 : stack.peek();
-      stack.push(i);
-    }
-    int maxArea = 0;
-    for(int i = 0; i < n; i++){
-        int area = heights[i] *  (nse[i] - pse[i] - 1);
-        // int area = Math.max(left,right);
-        // System.out.printf("The index is %d, the pse is %d , nse is %d and the area is %d\n", i, pse[i], nse[i], area);
-
-        area = Math.abs(area);
-        maxArea = Math.max(area,maxArea);
-    }
-    return maxArea;
-  }
 }
