@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
@@ -140,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/1667-find-kth-bit-in-nth-binary-string) |
