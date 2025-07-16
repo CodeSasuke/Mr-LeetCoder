@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0503-next-greater-element-ii) |
@@ -126,6 +127,7 @@
 | [0050-powx-n](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
@@ -344,6 +346,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Rolling Hash
 |  |
@@ -398,6 +401,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
 |  |
