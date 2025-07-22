@@ -71,6 +71,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0264-ugly-number-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -96,6 +97,7 @@
 | [0214-shortest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
@@ -391,6 +393,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CodeSasuke/Mr-LeetCoder/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
